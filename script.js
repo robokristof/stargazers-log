@@ -8,3 +8,4 @@ fetch("events.json")
       list.appendChild(item);
     });
   });
+  
