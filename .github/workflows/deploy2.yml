@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Automatic deploy to GitHub Pages - rename main_x to main
 
 on:
   push:
